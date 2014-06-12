@@ -2,7 +2,7 @@
   "name": "jsonschemav4validator",
   "version": "0.0.0",
   "dependencies": {
-    "express": "^4.4.3",
+    "express": "3.4.7",
     "gzippo": "^0.2.0"
   },
   "devDependencies": {
