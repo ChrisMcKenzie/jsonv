@@ -1,4 +1,4 @@
 'use strict';
 
 angular
-  .module('jsonschemav4ValidatorApp', ['ui.codemirror']);
+  .module('jsonv', ['ui.codemirror']);
