@@ -9,7 +9,8 @@ angular.module('jsonv')
     $scope.editorOptions = {
       lineWrapping : true,
       lineNumbers: true,
-      mode: 'json',
+      mode: 'application/json',
+      theme: 'monokai'
     };
 
     $scope.clear = function(){
